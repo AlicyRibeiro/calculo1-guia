@@ -11,7 +11,7 @@
 * [Propriedades dos limites](limites/propriedades.md)
 
 ## Derivadas
-* [Conceito de derivada](derivadas/conceito.md)
+* [Conceito de derivada](Derivadas/conceito.md)
 * [Regras de derivação](derivadas/regras.md)
 
 ## Exercícios
