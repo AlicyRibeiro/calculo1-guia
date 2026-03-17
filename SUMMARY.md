@@ -4,6 +4,7 @@
 
 ## Funções
 * [Conceito de função](funcoes/conceito.md)
+*  [dominio-imagem](funcoes/dominio-imagem)
 * [Gráficos](funcoes/graficos.md)
 
 ## Limites
