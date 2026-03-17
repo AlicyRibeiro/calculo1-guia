@@ -1,20 +1,23 @@
-# Guia de Cálculo 1
+# 📚 Guia de Cálculo 1
 
-Bem-vindo ao **Guia de Cálculo 1**.
+Este guia reúne teoria, exemplos resolvidos e exercícios de **Cálculo 1**.
 
-Este material foi criado para ajudar estudantes a entender os conceitos fundamentais de cálculo através de:
+Baseado principalmente em:
 
-- 📚 teoria resumida
-- ✅ exemplos resolvidos
-- 📝 exercícios comentados
-- 💡 dicas e erros comuns
+- James Stewart — *Calculus: Early Transcendentals*
+- Guidorizzi — *Um Curso de Cálculo*
 
 ---
 
-## Conteúdo
+# Conteúdo
+
+## Fundamentos
 
 - Funções
 - Limites
-- Continuidade
 - Derivadas
-- Aplicações da derivada
+
+## Exercícios
+
+- Listas resolvidas
+- Listas para prática
